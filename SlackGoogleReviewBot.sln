@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32912.340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlackGoogleReviewBot", "SlackGoogleReviewBot\SlackGoogleReviewBot.csproj", "{34AE8378-4407-4BC4-BBA6-18690DFA8110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AE8378-4407-4BC4-BBA6-18690DFA8110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AE8378-4407-4BC4-BBA6-18690DFA8110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AE8378-4407-4BC4-BBA6-18690DFA8110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AE8378-4407-4BC4-BBA6-18690DFA8110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08EE7A70-F99F-4B77-BC92-C06237C94595}
+	EndGlobalSection
+EndGlobal
